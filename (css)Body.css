@@ -1,0 +1,244 @@
+body {
+    text-align: center;
+}
+
+body {
+    background-image: radial-gradient(rgb(242, 242, 242) 35%, rgb(72, 9, 10) 100%);
+    background-position: right;
+}
+
+.img-fluid {max-width: 90%; height: auto;}
+
+@media {min-width: 768px}
+.wrapper {
+width: 100%;}
+
+
+.imageset { border:2.5px solid chartreuse;
+width: 2000px;
+height: 333px;
+align-content: center;
+ display: block;
+  margin-left: auto;
+    margin-right: auto; }
+
+h3 {
+    font-family: "Lucida Console";
+}
+
+p.g {
+    position: static;
+}
+
+p.g {
+    position: absolute;
+    bottom: 165px;
+    right: 680px
+}
+
+p.c {
+    position: static;
+}
+
+p.c {
+    position: absolute;
+    bottom: -15px;
+    right: 830px
+}
+
+p.f {
+    position: static
+}
+
+p.f {
+    position: absolute;
+    bottom: -125px;
+    right: 500px
+}
+
+p.e {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.e {
+    position: absolute;
+    bottom: 170px;
+    right: 600px;
+    width: 450px;
+    height: 2px;
+}
+
+p.d {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.d {
+    position: absolute;
+    bottom: -50px;
+    right: 825px;
+    width: 2px;
+    height: 250px;
+}
+
+p.a {
+    font-size-adjust: auto;
+    font-weight: 200;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+p.p {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.p {
+    position: absolute;
+    bottom: -2000px;
+    right: 600px;
+    width: 450px;
+    height: 2px;
+}
+
+p.q {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.q {
+    position: absolute;
+    bottom: -2200px;
+    right: 830px;
+    width: 2px;
+    height: 250px;
+}
+
+p.m {
+    position: static;
+}
+
+p.m {
+    position: absolute;
+    bottom: -2010px;
+    right: 680px
+}
+
+p.n {
+    position: static;
+}
+
+p.n {
+    position: absolute;
+    bottom: -2220px;
+    right: 850px
+}
+
+p.l {
+    position: static
+}
+
+p.l {
+    position: absolute;
+    bottom: -1210px;
+    right: 500px;
+}
+
+
+p.h {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.h {
+    position: absolute;
+    bottom: -980px;
+    right: 600px;
+    width: 450px;
+    height: 2px;
+}
+
+p.i {
+    position: fixed;
+    border: 4px solid black;
+    background-color: dimgrey;
+}
+
+p.i {
+    position: absolute;
+    bottom: -1205px;
+    right: 825px;
+    width: 2px;
+    height: 250px;
+}
+
+p.o {
+    position: static;
+}
+
+p.o {
+    position: absolute;
+    bottom: -2260px;
+    right: 625px
+}
+
+p.k {
+    position: static;
+}
+
+p.k {
+    position: absolute;
+    bottom: -1090px;
+    right: 840px
+}
+
+p.l {
+    position: static
+}
+
+p.l {
+    position: absolute;
+    bottom: -1210px;
+    right: 550px
+}
+p.j {
+    position: static
+}
+
+p.j {
+    position: absolute;
+    bottom: -990px;
+    right: 680px }
+      
+
+
+p.t {text-align: center;
+text-decoration: none;
+font-weight: 100;}
+
+p.t {
+border-style: dashed;
+margin-bottom: 10px;
+margin-left: 640px;
+margin-right: 640px;
+margin-top: 10px;}
